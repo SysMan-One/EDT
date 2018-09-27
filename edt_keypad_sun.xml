@@ -1,0 +1,37 @@
+<key_set function="Gold" 	key="102" mapto="F1" returns="27 91 49 49 126" />
+<key_set function="Gold" 	key="90" mapto="F1" returns="27 91 49 49 126" />
+<key_set function="Find" 	key="92" mapto="F2" returns="27 91 49 50 126" />
+<key_set function="Delete_Line" key="93" mapto="F3" returns="27 91 49 51 126" />
+<key_set function="Jump_Page" 	key="103" mapto="F4" returns="27 91 49 52 126" />
+<key_set function="Replace" 	key="104" mapto="F5" returns="27 91 49 53 126" />
+<key_set function="Forward" 	key="99" mapto="F6" returns="27 91 49 55 126" />
+<key_set function="Backward" 	key="100" mapto="F7" returns="27 91 49 56 126" />
+<key_set function="Cut" 	key="101" mapto="F8" returns="27 91 49 57 126" />
+<key_set function="Delete_Word" key="94" mapto="F9" returns="27 91 50 48 126" />
+<key_set function="Jump_Word" 	key="96" mapto="F10" returns="27 91 50 49 126" />
+<key_set function="Jump_EOL" 	key="97" mapto="F11" returns="27 91 50 51 126" />
+<key_set function="Enter_Ascii" key="98" mapto="Home" returns="27 91 72" />
+<key_set function="Jump_BOL" 	key="105" mapto="F12" returns="27 91 50 52 126" />
+<key_set function="Mark" 	key="106" mapto="F14" returns="27 91 50 54 126" />
+<key_set function="Delete_Character" key="95" mapto="Insert" returns="27 91 50 126" />
+<key_set function="Up_Arrow" 	key="0" mapto="" returns="27 91 65" />
+<key_set function="Down_Arrow" 	key="0" mapto="" returns="27 91 66" />
+<key_set function="Right_Arrow" key="0" mapto="" returns="27 91 67" />
+<key_set function="Left_Arrow" 	key="0" mapto="" returns="27 91 68" />
+
+<key_restore key="102" mapto="F27" />
+<key_restore key="90" mapto="Num_Lock" />
+<key_restore key="92" mapto="KP_Multiply" />
+<key_restore key="93" mapto="KP_Subtract" />
+<key_restore key="103" mapto="KP_8" />
+<key_restore key="104" mapto="KP_9" />
+<key_restore key="99" mapto="KP_4" />
+<key_restore key="100" mapto="KP_5" />
+<key_restore key="101" mapto="KP_6" />
+<key_restore key="94" mapto="KP_Add" />
+<key_restore key="96" mapto="KP_1" />
+<key_restore key="97" mapto="KP_2" />
+<key_restore key="98" mapto="KP_3" />
+<key_restore key="105" mapto="KP_0" />
+<key_restore key="106" mapto="KP_Decimal" />
+<key_restore key="95" mapto="KP_Enter" />

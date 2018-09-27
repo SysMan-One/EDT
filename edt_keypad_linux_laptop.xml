@@ -1,0 +1,37 @@
+<key_set function="Gold" 	key="73" mapto="F1" returns="27 79 80" />
+<key_set function="Gold" 	key="97" mapto="F1" returns="27 79 80" />
+<key_set function="Find" 	key="103" mapto="F2" returns="27 79 81" />
+<key_set function="Delete_Line" key="95" mapto="F3" returns="27 79 82" />
+<key_set function="Jump_Page" 	key="74" mapto="F4" returns="27 79 83" />
+<key_set function="Replace" 	key="75" mapto="F5" returns="27 91 49 53 126" />
+<key_set function="Forward" 	key="70" mapto="F6" returns="27 91 49 55 126" />
+<key_set function="Backward" 	key="71" mapto="F7" returns="27 91 49 56 126" />
+<key_set function="Cut" 	key="72" mapto="F8" returns="27 91 49 57 126" />
+<key_set function="Delete_Word" key="96" mapto="F9" returns="27 91 50 48 126" />
+<key_set function="Jump_Word" 	key="67" mapto="F10" returns="27 91 50 49 126" />
+<key_set function="Jump_EOL" 	key="68" mapto="F11" returns="27 91 50 51 126" />
+<key_set function="Enter_Ascii" key="69" mapto="Home" returns="27 91 72" />
+<key_set function="Jump_BOL" 	key="76" mapto="F12" returns="27 91 50 52 126" />
+<key_set function="Mark" 	key="106" mapto="End" returns="27 91 70" />
+<key_set function="Delete_Character" key="107" mapto="Insert" returns="27 91 50 126" />
+<key_set function="Up_Arrow" 	key="0" mapto="" returns="27 91 65" />
+<key_set function="Down_Arrow" 	key="0" mapto="" returns="27 91 66" />
+<key_set function="Right_Arrow" key="0" mapto="" returns="27 91 67" />
+<key_set function="Left_Arrow" 	key="0" mapto="" returns="27 91 68" />
+
+<key_restore key="73" mapto="F7" />
+<key_restore key="97" mapto="Home" />
+<key_restore key="103" mapto="End" />
+<key_restore key="95" mapto="F11" />
+<key_restore key="74" mapto="F8" />
+<key_restore key="75" mapto="F9" />
+<key_restore key="70" mapto="F4" />
+<key_restore key="71" mapto="F5" />
+<key_restore key="72" mapto="F6" />
+<key_restore key="96" mapto="F12" />
+<key_restore key="67" mapto="F1" />
+<key_restore key="68" mapto="F2" />
+<key_restore key="69" mapto="F3" />
+<key_restore key="76" mapto="F10" />
+<key_restore key="106" mapto="Insert" />
+<key_restore key="107" mapto="Delete" />

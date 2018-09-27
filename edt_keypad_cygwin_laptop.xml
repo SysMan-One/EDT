@@ -1,0 +1,20 @@
+<key_set function="Gold" 	key="0" mapto="" returns="27 91 49 56 126" />
+<key_set function="Gold" 	key="0" mapto="" returns="27 91 49 56 126" />
+<key_set function="Find" 	key="0" mapto="" returns="27 91 70" />
+<key_set function="Delete_Line" key="0" mapto="" returns="27 91 50 51 126" />
+<key_set function="Jump_Page" 	key="0" mapto="" returns="27 91 49 57 126" />
+<key_set function="Replace" 	key="0" mapto="" returns="27 91 50 48 126" />
+<key_set function="Forward" 	key="0" mapto="" returns="27 79 83" />
+<key_set function="Backward" 	key="0" mapto="" returns="27 91 49 53 126" />
+<key_set function="Cut" 	key="0" mapto="" returns="27 91 49 55 126" />
+<key_set function="Delete_Word" key="0" mapto="" returns="27 91 50 52 126" />
+<key_set function="Jump_Word" 	key="0" mapto="" returns="27 79 80" />
+<key_set function="Jump_EOL" 	key="0" mapto="" returns="27 79 81" />
+<key_set function="Enter_Ascii" key="0" mapto="" returns="27 79 82" />
+<key_set function="Jump_BOL" 	key="0" mapto="" returns="27 91 50 49 126" />
+<key_set function="Mark" 	key="0" mapto="" returns="27 91 50 126" />
+<key_set function="Delete_Character" key="0" mapto="" returns="27 91 51 126" />
+<key_set function="Up_Arrow" 	key="0" mapto="" returns="27 91 65" />
+<key_set function="Down_Arrow" 	key="0" mapto="" returns="27 91 66" />
+<key_set function="Right_Arrow" key="0" mapto="" returns="27 91 67" />
+<key_set function="Left_Arrow" 	key="0" mapto="" returns="27 91 68" />
